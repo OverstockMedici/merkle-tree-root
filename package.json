@@ -1,0 +1,9 @@
+{
+  "name": "merkle-tree-root",
+  "main": "app",
+  "version": "1.0.0",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "sha256": "^0.2.0"
+  }
+}
