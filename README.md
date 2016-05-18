@@ -1,4 +1,6 @@
-# Javascript implementation of Hash Tree
+# Javascript implementation of Merkle Tree (get root hash)
+
+# Provided under [MIT License](https://opensource.org/licenses/MIT)
 
 ### Depends on:
 `node v6`
